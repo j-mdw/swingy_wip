@@ -1,4 +1,4 @@
-package com.github.j_mdw.app;
+package com.j_mdw.app;
 
 import static org.junit.Assert.assertTrue;
 
