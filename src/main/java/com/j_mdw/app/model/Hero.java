@@ -1,7 +1,9 @@
 package com.j_mdw.app.model;
 
+import lombok.Getter;
+
 public class Hero {
-  private String name;
+  @Getter private String name;
   private String type;
   private int level;
   private int xp;
